@@ -1,0 +1,17 @@
+1.Restructure.m-> restructures the dataset into groups of characters
+Bad data is removed after careful analysis
+
+2.GenerateFeatures.py->Generates the features that will be used for analysis and development of ML models
+
+3.select_model.py-> a comparitive analysis of various classifiers is done for selecting best model
+
+4.KNN_module->Implements KNN and performs grid search .
+
+5.ExtraTreeStats-> Extra tree classifier is implemented and generates stats of accuracy vs number of trees
+
+6. Extratree classifier results-> contains results and data from which extra trees.png is generated.
+
+Initially Matlab was chosen for implementing the project, but seeing the industry affinity towards Python,
+this project was considered as an oppurtunity to learn Python. 
+
+ 
