@@ -1,2 +1,2 @@
 # Machine-Learning
-Variouas ML projects
+Various ML projects
